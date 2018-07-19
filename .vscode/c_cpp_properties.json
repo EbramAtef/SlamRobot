@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src",
+                "${workspaceRoot}",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\mega\\**",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SoftwareSerial/src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "ARDUINO=100",
+                "__AVR_ATmega328P__",
+                "__AVR__",
+                "__AVR_ENHANCED__"
+            ],
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.10.25017/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/**",
+                    "${workspaceRoot}",
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include",
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\mega\\**"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}

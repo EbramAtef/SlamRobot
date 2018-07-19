@@ -1,0 +1,6 @@
+{
+    "sketch": "RobotV2.ino",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "port": "COM4"
+}
